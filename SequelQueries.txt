@@ -1,0 +1,32 @@
+$ 1. The following command will dispay how many entries are in the menu table.
+SELECT COUNT(*) FROM menu;
+$ 2. The following command will display the entirety of our menu table.
+SELECT * FROM menu;
+$ 3. The following command will display the entirety of our customer orders table.
+SELECT * FROM customer_orders;
+$ 4. The following command will display the entirety of our inventory table;
+SELECT * FROM inventory;
+$ 5. The following command will display the first three items in the menu.
+SELECT * FROM menu LIMIT 3;
+$ 6. The following command will display the first three items in the customer orders table.
+SELECT * FROM customer_orders LIMIT 3;
+$ 7. The following command will display the first three items in the inventory table.
+SELECT * FROM inventory LIMIT 3;
+$ 8. The following command will display all data from week two in the customer orders table.
+SELECT * from customer_orders WHERE week=2;
+$ 9. The following command will display all data from week four in the customer orders table.
+SELECT * from customer_orders WHERE week=4;
+$ 10. The following command will display the information regarding ranch from the inventory table.
+SELECT * from inventory WHERE name="Ranch";
+$ 11. The following command will display the information regarding flour from the inventory table.
+SELECT * from inventory WHERE name="flour";
+$ 12. The following command will display the information regarding straws from the inventory table.
+SELECT * from inventory WHERE name="Straw";
+$ 13. The following command will display the information regarding bottled root beer from the inventory table.
+SELECT * from inventory WHERE name="Bottled Root Beer";
+$ 14. The following command will display the information regarding the menu item with a menu ID of 507.
+SELECT * from menu WHERE item_id=507;
+$ 15. The following command will display the information regarding the menu item with a menu ID of 516.
+SELECT * from menu WHERE item_id=516;
+
+

@@ -1,0 +1,21 @@
+Menu key,,,,,
+,Item ,name,Description,price,Bundle-ID
+,501,5 finger original,"plus toast, fries, potato salad, sauce, drink",$6.50 ,501-515-517-516-513-518
+,502,4 finger meal,"plus toast, fries, potato salad, sauce, drink",$5.50 ,502-515-517-516-513-519
+,503,three finger meal,"plus toast, fries, potato salad, sauce, drink",$4.50 ,503-515-517-516-513-520
+,504,kids meal,"plus toast, fries, potato salad, sauce, drink",$2.50 ,504-515-517-516-513-521
+,505,gallon of tea,,$5.00 ,505
+,506,family pack,"20fingers 4 toasts, 4 fries, 8 sauces",$32.00 ,506-515-517-513
+,507,Club Sandwich meal,"plus toast, fries, potato salad, sauce, drink",$0.75 ,507-515-517-516-513-521
+,508,Club Sandwich only,,$4.75 ,508
+,509,Sandwich meal combo,"plus toast, fries, potato salad, sauce, drink",$5.75 ,509-515-517-516-513-521
+,510,sandwich only,,$3.75 ,510
+,511,Grill cheese meal combo,"plus toast, fries, potato salad, sauce, drink",$4.50 ,511-515-517-516-513-521
+,512,grill cheese sandwich only,,$3.50 ,512
+,513,Laynes sauce,2 oz cup,$0.10 ,513
+,514,Chicken finger,"side, 1 finger",$1.50 ,514
+,515,texas toast,"side, 1 piece",$50.00 ,515
+,516,potato Salad,"Side, 5.5 oz",$1.50 ,516
+,517,Crinke cut fries,side,$1.75 ,517
+,518,Fountain Drink,16 oz drink,$1.25 ,518
+,519,Bottle drink,,$2.00 ,519
